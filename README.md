@@ -43,6 +43,8 @@ GeoGuessrは、ランダムに選ばれたGoogle ストリートビューの画�
 2.GeoGuessrをマスターする。
 
 ## References
-[
-](https://www.notion.so/ae110f08fa3c48d2b392fe5edc9acddc)
+これまでの資料はNotionにまとめる
+
+[(https://www.notion.so/ae110f08fa3c48d2b392fe5edc9acddc)]
+
 
