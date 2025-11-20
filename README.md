@@ -43,7 +43,7 @@ GeoGuessrは、ランダムに選ばれたGoogle ストリートビューの画�
 2.GeoGuessrをマスターする。
 
 ## References
-これまでの資料はNotionにまとめる
+
 
 
 
