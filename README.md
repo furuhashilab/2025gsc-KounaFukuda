@@ -1,5 +1,5 @@
 # 2025gsc-KounaFukuda
-# テーマ：「GeoGuessrから空間データを分析し」
+# テーマ：「GeoGuessrマスターに向けて空間データを分析」
 青山学院大学 地球社会共生学部 地球社会共生学科
 
 福田宏娜/ Kouna Fukuda
