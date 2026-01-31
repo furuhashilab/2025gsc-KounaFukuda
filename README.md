@@ -41,12 +41,11 @@ Notionにおいては、情報の構造化と階層化をしながら、主に�
 記録として日本名古屋で当てた1kmである。毎週21ゲームの中、平均して19ゲームは国を当てられるようになった。ヨーロッパ大陸は依然混ざる地域がある。
 
 
-作成したGeoGuessr攻略（ヨーロッパ編）はこちら
+作成したGeoGuessr攻略（ヨーロッパ編）は[こちら](https://www.notion.so/GeoGuessr-2a2553500dbc80e6a621c6ab91d226a2?source=copy_link)
 
-情報のみのExcelデータ（リンク）
+[整理した情報のみのExcelデータ](https://aoyamajp-my.sharepoint.com/:x:/g/personal/aa122028_aoyama_jp/IQCNfOh5B4S5Qr2ZYDttIP4vAUsailLzPKw_wpTADskqQaA?e=A3NTw4)
 
-
-画面録画とスクリーンショット情報（リンク）
+[画面録画とスクリーンショット情報](https://drive.google.com/drive/folders/1Mj0_dBcPYQSsUSd5d2TGiDsGGy0wfMbP?usp=sharing)
 
 ## Discussion
 **推論プロセスの学習**
